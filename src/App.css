@@ -1,0 +1,4 @@
+#root{display: flex;flex-direction: column;justify-content: center;}
+.appButton{width: 25%;margin: 30px auto;color: #fff;background-color: tomato;border-radius: 12px;border: 1px solid tomato;font-size: 1.5rem;font-weight: 300;padding: 12px 27px;}
+.courseArea{display: flex;flex-wrap: wrap;gap: 30px;justify-content: center;}
+.courseArea img{margin-bottom: 30px;width: 300px;}
